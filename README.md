@@ -1,3 +1,3 @@
 # Caesar Cipher
 
-*estudo de criptografia em ruby*
+* Metódo de criptografia em ruby*
